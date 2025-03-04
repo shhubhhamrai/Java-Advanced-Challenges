@@ -1,3 +1,5 @@
+// Exercise 03: Created a shape named Parent class and then inherited it in child classes to calculate area and perimeter of that shapes...
+
 class Shape03 {
     double area() {
         return 0;  // Default implementation (to be overridden)
