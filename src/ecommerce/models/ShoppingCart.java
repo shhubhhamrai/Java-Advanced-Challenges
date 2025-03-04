@@ -28,7 +28,7 @@ public class ShoppingCart {
 
     @Override
     public String toString() {
-        return "ShoppingCart{items=" + items + ", totalPrice=" + getTotalPrice() + "}";
+        return "ShoppingCart {items= " + items + ", totalPrice= " + getTotalPrice() + "}";
     }
 }
 
