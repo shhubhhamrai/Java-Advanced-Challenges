@@ -1,3 +1,4 @@
+// Exercise 05: Created a package for an e-commerce system and defined the required classes...
 package ecommerce;
 
 import ecommerce.models.*;
