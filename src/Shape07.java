@@ -1,4 +1,4 @@
-// Exercise 03: Created a differentShapes  abstract class which contains abstract methods to calculate area and perimeter
+// Exercise 07: Created a differentShapes  abstract class which contains abstract methods to calculate area and perimeter
 abstract class differentShapes {
     abstract double area();
     abstract double perimeter();
@@ -62,7 +62,7 @@ class Triangle extends differentShapes {
     }
 }
 
-public class Shape02 {
+public class Shape07 {
     public static void main(String[] args) {
         differentShapes circle = new Circle(5);
         System.out.println("Circle Area: " + circle.area());
