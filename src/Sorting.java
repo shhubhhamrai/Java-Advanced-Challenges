@@ -1,3 +1,5 @@
+// Exercise- 08 : Creating an interface named SortingAlgorithm and creating abstract methods.
+
 // SortingAlgorithm interface defining different sorting methods
 interface SortingAlgorithm {
     void bubbleSort(int[] array);
